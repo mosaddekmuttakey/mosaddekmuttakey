@@ -2,10 +2,10 @@
 
 # Hi, I'm Md. Mosaddek Muttakey 👋
 
-### Data Analyst | Power BI Developer | Python & SQL Enthusiast
+### Machine Learning Enthusiast | Aspiring Data Scientist | Python Developer
 
 <p>
-I transform raw data into meaningful insights, interactive dashboards, and data-driven solutions.
+Building a strong foundation in Machine Learning and turning data into intelligent, data-driven solutions.
 </p>
 
 <p>
@@ -15,8 +15,11 @@ I transform raw data into meaningful insights, interactive dashboards, and data-
   <a href="mailto:mosaddekmuttakey4390@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/mosaddekmuttakey">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://github.com/mosaddekmuttakey">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/mosaddek4390">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
@@ -28,34 +31,33 @@ I transform raw data into meaningful insights, interactive dashboards, and data-
 
 ## 👨‍💻 About Me
 
-I am passionate about **Data Analytics, Business Intelligence, and Data Visualization**.  
-I enjoy transforming complex datasets into clear, actionable insights that support better business decisions.
+I'm a Computer Science & Engineering student building a strong foundation in **Machine Learning**, moving from core math and programming fundamentals into applied model building.
 
-- 🔭 Currently working on **Data Analytics & Power BI Projects**
-- 🌱 Learning **Advanced Power BI, SQL, Python, and Data Analysis**
-- 📊 Interested in **Data Analytics, Business Intelligence & Visualization**
-- 💡 Enjoy solving real-world problems using data
-- 🤝 Open to collaborating on **Data Analytics and BI Projects**
-- 🎯 Goal: Build impactful data-driven solutions and grow as a professional Data Analyst
+- 🎓 Studying Computer Science & Engineering, with coursework in Machine Learning, Data Mining, Data Warehousing, and Data Science
+- 🔭 Currently working through a structured ML roadmap — statistics, linear algebra, and calculus for ML, followed by hands-on implementation
+- 🌱 Learning to implement core algorithms (starting with Linear Regression) using NumPy before moving to frameworks like Scikit-learn
+- 📊 Background in data analytics and visualization with Power BI and Python
+- 🤝 Open to collaborating on Machine Learning and Data Science projects
 - 📫 Reach me at **mosaddekmuttakey4390@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
 ### 📊 Data Analytics & BI
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-</p>
-
-### 💻 Programming & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -64,8 +66,20 @@ I enjoy transforming complex datasets into clear, actionable insights that suppo
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
+
+---
+
+## 🧠 Machine Learning Focus
+
+| Area | Status |
+|---|---|
+| Math Foundations (Linear Algebra, Calculus, Probability & Statistics) | ✅ In Progress |
+| Python for ML (NumPy, Pandas, Matplotlib) | ✅ In Progress |
+| Core Algorithms (Linear Regression, Logistic Regression) | 🔨 Building |
+| Scikit-learn & Model Evaluation | 📌 Up Next |
+| Deep Learning Fundamentals | 📌 Planned |
 
 ---
 
@@ -73,29 +87,15 @@ I enjoy transforming complex datasets into clear, actionable insights that suppo
 
 ### 📊 HR Employee Attrition Analysis — Power BI
 
-> Interactive HR analytics dashboard designed to identify employee attrition patterns and workforce insights.
+> Interactive HR analytics dashboard identifying employee attrition patterns and workforce insights.
 
-**Key Areas:**
-- Employee Attrition Analysis
-- Department-wise Insights
-- Job Satisfaction Analysis
-- Demographic Analysis
-- Interactive Power BI Dashboard
-
-**Tools:** `Power BI` `Data Cleaning` `Data Visualization` `Business Intelligence`
+**Tools:** `Power BI` `Data Cleaning` `Data Visualization`
 
 ---
 
-### 📈 More Projects Coming Soon
+### 🤖 Machine Learning Projects — In Progress
 
-I'm continuously building projects in:
-
-- Power BI Dashboard Development
-- SQL Data Analysis
-- Python Exploratory Data Analysis
-- Business Intelligence
-- Data Visualization
-- Real-world Business Analytics
+> Building ML projects as part of a structured learning roadmap, starting with regression models implemented from scratch in NumPy.
 
 ---
 
@@ -139,14 +139,6 @@ I'm continuously building projects in:
 
 <div align="center">
 
-<a href="https://facebook.com/mosaddekmuttakey">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/___mosaddek_404__">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/md-mosadsek-muttakey">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -165,7 +157,7 @@ I'm continuously building projects in:
 
 <div align="center">
 
-### 💡 "Turning Data Into Decisions."
+### 💡 "Learning today, building intelligent systems tomorrow."
 
 ⭐ **Thanks for visiting my profile!**
 
